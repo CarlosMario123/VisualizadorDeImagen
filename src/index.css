@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Roboto+Condensed&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+   background-color: rgb(140, 170, 173);
+   height: 100vh;
+   font-family: Agbalumo ;
+}
